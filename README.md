@@ -1,2 +1,2 @@
 # skill-tracker1
-This is My First Gi Repository.
+This is My First Git Repository.
